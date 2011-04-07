@@ -3,7 +3,7 @@ Contributors: adampieniazek
 Tags: sample content, development, shortcode, html examples
 Requires at least: 2.0
 Tested up to: 3.1
-Stable tag: trunk
+Stable tag: 0.3
 
 Sample Content Shortcode outputs a thorough chunk of sample content with html/css code examples via a shortcode.
 
